@@ -1,2 +1,6 @@
-# Introduction
-This is a *very basic repo* with just an introduction in [markdown format](https://help.github.com/articles/markdown-basics/). **Replace this header and text in your own repo.**
+# My name is Isaac Beadle Ramirez
+
+*I like to do computer stuff
+* I like to play video games
+
+that pretty much sums up my life.
